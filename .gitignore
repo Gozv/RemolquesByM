@@ -1,0 +1,17 @@
+# Archivos de sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+ 
+# Editores
+.vscode/
+.idea/
+*.swp
+ 
+# Logs
+*.log
+ 
+# Variables de entorno (por si en el futuro agregan claves o configuración sensible)
+.env
+.env.local
+ 

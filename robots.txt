@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.remolquesbym.com.ar/sitemap.xml
