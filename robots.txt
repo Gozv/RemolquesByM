@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.remolquesbym.com.ar/sitemap.xml
+Sitemap: https://remolquesbym.com.ar/sitemap.xml
